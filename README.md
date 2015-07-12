@@ -1,0 +1,2 @@
+# snote
+A simple diary
